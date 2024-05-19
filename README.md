@@ -1,6 +1,6 @@
 ### Hi I'm Sujung 👋
 
-- 🔭 I’m currently pursuing a Master's degree in Computer Science, specializing in Data Science. 
+- 🔭 I recently graduated with a master's degree in computer science, specializing in data science.
 - 🌱 I’m actively seeking entry-level Data Science & Analytics roles.
 - 📫 How to reach me: sjchoi0998@gmail.com
 - ✨ I am very passionate about exploring data, discovering meaningful insights, and crafting compelling stories from it. More importantly, I value utilizing the transformative power of data for the right purpose and a positive impact on society.
