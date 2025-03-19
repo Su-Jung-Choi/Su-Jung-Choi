@@ -10,6 +10,6 @@
 - Technical Skills
   * Programming Languages: Python (Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Folium, Scikit-learn, TensorFlow, nltk), SQL (MySQL, PostgreSQL), C++, R, Scala
   * Big Data Platforms: Databricks (Apache Spark)
-  * Viz/Microsoft Office: Tableau, Power BI, Excel (XLOOKUP, PivotTables, PivotCharts, functions, & formulas)
+  * Viz/Microsoft Office: Domo, Tableau, Power BI, Excel
 
 - ⚡ My Core Strengths: Growth Mindset, Resilience, Curiosity, Attention to Detail, Strong Work Ethic, Problem-solving, Critical Thinking
